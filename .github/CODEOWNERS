@@ -1,0 +1,2 @@
+# This rule prevents any user from changing pipeline and repo conditions inside .github folder
+/.github @ccnPeon
